@@ -314,9 +314,15 @@ Please Check In Inery Explorer, Master Node Completed!!!
 <p align="center">
   <img height="auto" height="auto" src="https://user-images.githubusercontent.com/112532410/200096830-edf3c979-e099-4239-a625-67836000f27b.jpg">
 </p>
+<p align="center">
+  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/112532410/200149450-6386e00d-69a6-4c45-8e3d-630d3f5d7ce6.jpg">
+</p>
  - Click Task 1
+
  - Click Finish Task
+
  - Waiting approved 
+
  ✅ Done
 
 
