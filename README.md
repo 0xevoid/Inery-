@@ -291,6 +291,11 @@ cline wallet import --private-key <your_private_key> -n <your_name_wallet>
 
 - Register as a producer by running the command
 
+👇👇👇👇👇👇
+<p align="center">
+  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/112532410/200149096-2aa02ed2-0d10-49ad-a45a-64915ef8bcbb.jpg">
+</p>
+
 ```
 cline system regproducer <your_account> <your_public_key> 0.0.0.0:9010
 ```
