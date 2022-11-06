@@ -237,6 +237,12 @@ Save (ctrl+x), Type "Y" and exit (Enter)
 </p>
 
 <a href="https://explorer.inery.io/" target="_blank">Inery Explorer
+ 
+ **Sync Complete**                                                  
+ <p align="center">
+  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/112532410/200175165-667e197e-b8e5-4515-b950-06026457974f.jpg">
+</p>
+                                                   
 
 - Start Node
 Do This Still in New TAB
