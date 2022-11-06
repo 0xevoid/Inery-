@@ -305,7 +305,7 @@ cline system makeprod approve <your_account> <your_account>
 - Finished Step
 
 <p align="center">
-  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/112532410/200096170-09490909-c6a5-401c-ba2f-6e39c121d996.jpg">
+  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/112532410/200153389-69d0b1f5-7985-4f27-a00b-20ea19a578bf.jpg">
 </p>
 
 Please Check In Inery Explorer, Master Node Completed!!!
